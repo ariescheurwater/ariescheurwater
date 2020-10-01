@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:heart:&nbsp;&nbsp;&nbsp;Stay safe.  
+:house:&nbsp;&nbsp;&nbsp;Try to work from home.  
+:left_right_arrow:&nbsp;&nbsp;&nbsp;Keep your distance.  
+:mask:&nbsp;&nbsp;&nbsp;Wear a mask.  
+:earth_americas:&nbsp;&nbsp;&nbsp;Let us all look after one another.
+
 <!--
 **ariescheurwater/ariescheurwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
